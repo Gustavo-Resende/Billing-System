@@ -25,3 +25,7 @@
 
 # Docker
 docker/data/
+
+# AI Agent & Context
+.agent/
+antigravity/
